@@ -102,7 +102,11 @@
 /* New Task */
 .tasks__title_margin {
   display: block;
-  margin: 0 0 20px;
+  margin: 16px 0 20px;
+}
+
+.tasks__add-elem {
+  margin-bottom: 16px;
 }
 
 .tasks__input#new-task {
